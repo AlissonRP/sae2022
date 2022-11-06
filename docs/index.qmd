@@ -1,5 +1,8 @@
 ---
 title: "Apresentação"
+title-slide-attributes:
+  data-background-image: "https://slidebazaar.com/wp-content/uploads/2022/05/Black-and-White-Background-Presentation-templates-SB02298.jpg"
+  data-background-opacity: "0.3"
 subtitle: "não sei ainda"
 author: "Alisson Rosa"
 format: 
@@ -11,6 +14,26 @@ format:
         controls: true
 
 ---
+
+# Who I am??  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+
+::: {.incremental}
+- Um *quase* Estatístico
+
+<br />
+
+- Estagiário de Ciência de Dados na IBM
+
+<br />
+
+:::
+
+## Um pouco sobre a IBM {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+
+
+
+![](imgs/ibm.png){.absolute top=210 right=100 width="350" height="250"}
+
 
 ## O que vai ser falado {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
@@ -32,40 +55,33 @@ format:
 
 
 
-# Who I am?? 
-
-::: {.incremental}
-- Um *quase* Estatístico
-
-<br />
-
-- Estagiário de Ciência de Dados na IBM
-
-<br />
-
-:::
-
-
-## Um pouco sobre a IBM
-
-
-
-![](imgs/ibm.png){.absolute top=210 right=100 width="350" height="250"}
 
 
 
 
-# Dica 1
 
-## Dica 1 {auto-animate=true}
+
+
+
+# Dica 1 {background-image="imgs/background.jpg" background-opacity=0.2}
+
+## Dica 1  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {style="margin-top: 100px;"}
 <br />
 
+::: {.incremental}
+
 * **Aprender** a ser autodidata.
+
+<br />
+
+- Ter curiosidade.
 :::
 
-## Dica 1 {auto-animate=true}
+:::
+
+## Dica 1  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {style="margin-top: 200px; font-size: 1.5em; color: red;"}
 * Desenvolver Independência Intelectual.
@@ -75,18 +91,23 @@ format:
 
 # Dica 2
 
-## Dica 2 {auto-animate=true}
+## Dica 2   {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
-::: {style="margin-top: 100px;"}
+::: {.incremental}
 <br />
 
 * Fundamentos são importantes.
+
+<br />
+
+* **Nenhuma** ferramenta dura pra **sempre**.
+
 :::
 
-## Dica 2 {auto-animate=true} 
+## Dica 2   {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {style="margin-top: 200px; font-size: 1.5em; color: red;"}
-* Foco em Ideias e não **somente** em Ferramentas.
+* Foco em **Ideias** e não **somente** em Ferramentas.
 :::
 
 
@@ -95,7 +116,7 @@ format:
 
 
 
-## Juntando tudo {auto-animate=true auto-animate-easing="ease-in-out"}
+## Juntando tudo {auto-animate=true auto-animate-easing="ease-in-out"} {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 <br />
 
@@ -114,10 +135,10 @@ Aprender **Qualquer coisa**
 :::
 
 
-## Final Tip
+## Final Tip {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {.incremental}
-- Aprendam GIT
+- Aprendam versionamento de código (Git)
 
 <br />
 
@@ -131,7 +152,11 @@ Aprender **Qualquer coisa**
 
 :::
 
-# **Obrigado pela Atenção!**
+# **Obrigado pela Atenção!** {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 * [Linkedin](https://www.linkedin.com/in/alissonrp/)
 * [GitHub](https://github.com/AlissonRP)
+
+::: footer
+é alissonrp em ambos
+:::
