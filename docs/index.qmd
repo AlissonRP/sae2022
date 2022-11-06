@@ -12,16 +12,14 @@ format:
 
 ---
 
-## O que vai ser falado {background-image="https://img.freepik.com/free-photo/dark-stone-desk-texture-with-concrete-background-high-resolution-top-view-table-with-copy-space-idea-advertising-banner-product-article_166373-2662.jpg?w=1380&t=st=1667675209~exp=1667675809~hmac=fa6f8310b9cc6ef404806a2c749d1024e930e0cd1f368649edaf2c9bb7ab8679"}
+## O que vai ser falado {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {.incremental}
 - Dica 1
- * Foco em estudo
 
 <br />
 
 - Dica 2 
- * Foco ferramentas
 
 <br />
 
@@ -36,104 +34,104 @@ format:
 
 # Who I am?? 
 
+::: {.incremental}
+- Um *quase* Estatístico
+
+<br />
+
+- Estagiário de Ciência de Dados na IBM
+
+<br />
+
+:::
+
+
+## Um pouco sobre a IBM
 
 
 
-![](https://c.tenor.com/JNGtStZqQOEAAAAC/tony-tony-chopper-chopper.gif){.absolute top=410 right=300 width="450" height="850"}
-
-## Dica 1
+![](imgs/ibm.png){.absolute top=210 right=100 width="350" height="250"}
 
 
 
 
-* Em Estatística, em geral, um **modelo** é algo que recebe uma estrutura que contém números e devolve um número.
+# Dica 1
 
-::: {.fragment .fade-in}
-::: {.fragment .highlight-red}
-Estrutura de Dados $\rightarrow$ Função $\rightarrow$ Número
+## Dica 1 {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+<br />
+
+* **Aprender** a ser autodidata.
+:::
+
+## Dica 1 {auto-animate=true}
+
+::: {style="margin-top: 200px; font-size: 1.5em; color: red;"}
+* Desenvolver Independência Intelectual.
+:::
+
+
+
+# Dica 2
+
+## Dica 2 {auto-animate=true}
+
+::: {style="margin-top: 100px;"}
+<br />
+
+* Fundamentos são importantes.
+:::
+
+## Dica 2 {auto-animate=true} 
+
+::: {style="margin-top: 200px; font-size: 1.5em; color: red;"}
+* Foco em Ideias e não **somente** em Ferramentas.
+:::
+
+
+
+
+
+
+
+## Juntando tudo {auto-animate=true auto-animate-easing="ease-in-out"}
+
+<br />
+
+::: {.r-hstack}
+::: {data-id="box1" auto-animate-delay="0" style="background: #2780e3; width: 290px; height: 200px; margin: 40px;"}
+Autodidata
+:::
+
+::: {data-id="box2" auto-animate-delay="0.1" style="background: #3fb618; width: 290px; height: 200px; margin: 40px;"}
+Fundamentação teórica
+:::
+
+::: {data-id="box3" auto-animate-delay="0.2" style="background: #e83e8c; width: 290px; height: 200px; margin: 40px;"}
+Aprender **Qualquer coisa**
 :::
 :::
 
 
-## Três Componentes Principais
+## Final Tip
 
-* Entrada
+::: {.incremental}
+- Aprendam GIT
 
+<br />
 
-![](a-Grayscale-image-of-character-A-b-Binary-representation-of-character-A-c.ppm.png){.absolute top=410 left=310  width="450" height="250"}
+- Aprendam a operar com Containers ([Docker](https://livro.descomplicandodocker.com.br/))
 
+<br />
 
----
-## Função 
+- Aprendam API (não basta só ajustar o modelo!!!)
 
-$$
-Y = \beta_0 + \beta_1X  + \epsilon
-$$
+<br />
 
-![](https://1.cms.s81c.com/sites/default/files/2021-01-06/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork-WHITEBG.png){.absolute top=190 right=10 width="450" height="490"}
-![](https://mljar.com/blog/visualize-decision-tree/output_10_0.png){.absolute top=180 left=10 width="450" height="530"}
+:::
 
-## Saída
- 
-Um número:
+# **Obrigado pela Atenção!**
 
-\begin{align}
-\text{Probabilidade} \rightarrow \text{Classificação}
-\end{align}
-
-\begin{align}
-\text{Número Real} \rightarrow \text{Regressão}
-\end{align}
-
-
-
-## Modelos de Regressão Linear
-* Uma regressão é uma função dos dados que tem como objetivo predizer um número  
-* Em regressão linear supõe-se que a  variável de interesse ($Y$) se relaciona  linearmente com as variáveis explicativas (**X**).
-
-
-
-
-$$
-Y = \beta_0 + \beta_1X_1  + \epsilon
-$$
-
-
-$$
-Y = \beta_0 + \beta_1X_1 + \beta_2e^{(X_2)} + \epsilon
-$$
-
-
-## Pressupostos e Teoria
-* Toda teoria possue pressupostos
-
-
-$$
-\text{Pressupostos} \rightarrow \text{Teoria}
-$$
-
-* Em regressão linear existem vários, mas o principal a ser falado aqui é sobre o pressuposto de normalidade do erro.
-
-## Normalidade
-
-* Fácilidade para fazer Inferência
-* Convergência dos estimadores
-* Nem sempre é satisfeita
-
-
-![](https://i.gifer.com/1srZ.gif){.absolute top=410 right=350 width="250" height="250"}
-
-## Proposta
-
-* Desenvolver o modelo de regressão quantílico Chen
-* Reparametrização da distribuição
-$$
-g(\mu) = \sum_i \beta_{i} X_{i}
-$$
-
-* Resíduo Quantílico
-
-$$
-\phi^{-1}(F(y_t;\hat{\lambda}, \hat{\mu}, \tau))
-$$
-
+* [Linkedin](https://www.linkedin.com/in/alissonrp/)
+* [GitHub](https://github.com/AlissonRP)
