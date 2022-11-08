@@ -15,10 +15,14 @@ format:
 
 ---
 
-# Who I am??  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+## Who I am??  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {.incremental}
-- Um *quase* Estatístico
+- A statistician who is too academic for industry, too industrial for academia.
+
+<br />
+
+- Áreas de interesse no **momento**: NLP e Computação Cientifica
 
 <br />
 
@@ -30,9 +34,24 @@ format:
 
 ## Um pouco sobre a IBM {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
+::: {.incremental}
+<br />
+
+- Existem IBM's dentro da **IBM**.
+
+<br />
+
+<br />
+
+- Consultoria.
+
+<br />
 
 
-![](imgs/ibm.png){.absolute top=210 right=100 width="350" height="250"}
+:::
+
+
+![](imgs/ibm.png){.absolute bottom=210 right=70 width="330" height="170"}
 
 
 ## O que vai ser falado {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
@@ -46,7 +65,6 @@ format:
 
 <br />
 
-- Conexão das coisas
 
 <br />
 
@@ -116,41 +134,44 @@ format:
 
 
 
-## Juntando tudo {auto-animate=true auto-animate-easing="ease-in-out"} {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
-<br />
 
-::: {.r-hstack}
-::: {data-id="box1" auto-animate-delay="0" style="background: #2780e3; width: 290px; height: 200px; margin: 40px;"}
-Autodidata
+
+# Final Tips {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+
+
+## Versionamento de código 
+
+* Git
+
+![](imgs/git.png){.absolute bottom=210 right=70 width="330" height="270"}
+
+
+## Aprendam a operar com Containers 
+
+* [Docker](https://livro.descomplicandodocker.com.br/)
+
+![](imgs/docker.png){.absolute bottom=210 right=70 width="330" height="270"}
+
+
+## Ambientes Distribuídos
+
+* Spark 
+
+![](imgs/spark.png  ){.absolute bottom=210 right=70 width="530" height="410"}
+
+
+
+## Recomendação de livro
+
+![](https://m.media-amazon.com/images/I/51eTKL+SkeL.jpg){.absolute top=200 right=170 width="280" height="320"}
+
+![](https://m.media-amazon.com/images/I/411RusyGLYL._SX346_BO1,204,203,200_.jpg){.absolute top=200 right=570 width="280" height="320"}
+
+::: footer
+linux não é uma questão de **se**, é uma questão de **quando**.
 :::
 
-::: {data-id="box2" auto-animate-delay="0.1" style="background: #3fb618; width: 290px; height: 200px; margin: 40px;"}
-Fundamentação teórica
-:::
-
-::: {data-id="box3" auto-animate-delay="0.2" style="background: #e83e8c; width: 290px; height: 200px; margin: 40px;"}
-Aprender **Qualquer coisa**
-:::
-:::
-
-
-## Final Tip {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
-
-::: {.incremental}
-- Aprendam versionamento de código (Git)
-
-<br />
-
-- Aprendam a operar com Containers ([Docker](https://livro.descomplicandodocker.com.br/))
-
-<br />
-
-- Aprendam API (não basta só ajustar o modelo!!!)
-
-<br />
-
-:::
 
 # **Obrigado pela Atenção!** {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
