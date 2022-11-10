@@ -21,7 +21,7 @@ format:
 
 <br />
 
-- Áreas de interesse no **momento**: NLP e Computação Cientifica
+- Áreas de interesse no **momento**: NLP e Computação Científica
 
 <br />
 
@@ -141,7 +141,7 @@ too academic for industry, too industrial for academia.
 ![](imgs/git.png){.absolute bottom=210 right=70 width="330" height="270"}
 
 
-## Aprendam a operar com Containers {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+## Containers {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 * [Docker](https://livro.descomplicandodocker.com.br/)
 
