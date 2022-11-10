@@ -1,10 +1,9 @@
 ---
-title: "Apresentação"
+title: "Da Estatística pro Mundo? "
 title-slide-attributes:
   data-background-image: "https://slidebazaar.com/wp-content/uploads/2022/05/Black-and-White-Background-Presentation-templates-SB02298.jpg"
   data-background-opacity: "0.3"
-subtitle: "não sei ainda"
-author: "Alisson Rosa"
+author: "<br> Alisson Rosa"
 format: 
     revealjs:
         theme: serif
@@ -18,7 +17,7 @@ format:
 ## Who I am??  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {.incremental}
-- A statistician who is too academic for industry, too industrial for academia.
+- Um quase Estatístico
 
 <br />
 
@@ -30,6 +29,10 @@ format:
 
 <br />
 
+:::
+
+::: footer
+too academic for industry, too industrial for academia.
 :::
 
 ## Um pouco sobre a IBM {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
@@ -57,18 +60,19 @@ format:
 ## O que vai ser falado {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {.incremental}
-- Dica 1
 
 <br />
 
-- Dica 2 
+- Uma Dica Fundamental
 
 <br />
 
 
+- Duas Ferramentas Importantes.
+
 <br />
 
-- Dica final
+* Materiais Interessantes.
 :::
 
 
@@ -81,9 +85,9 @@ format:
 
 
 
-# Dica 1 {background-image="imgs/background.jpg" background-opacity=0.2}
 
-## Dica 1  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+
+## Dica Fundamental {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {style="margin-top: 100px;"}
 <br />
@@ -94,83 +98,106 @@ format:
 
 <br />
 
-- Ter curiosidade.
-:::
-
-:::
-
-## Dica 1  {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
-
-::: {style="margin-top: 200px; font-size: 1.5em; color: red;"}
-* Desenvolver Independência Intelectual.
-:::
-
-
-
-# Dica 2
-
-## Dica 2   {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
-
-::: {.incremental}
-<br />
-
-* Fundamentos são importantes.
-
-<br />
-
 * **Nenhuma** ferramenta dura pra **sempre**.
 
 :::
 
-## Dica 2   {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+:::
+
+## Dica  Fundamental {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: {style="margin-top: 200px; font-size: 1.5em; color: red;"}
-* Foco em **Ideias** e não **somente** em Ferramentas.
+* Desenvolver Independência Intelectual.
+
+
 :::
 
 
 
 
+# Ferramentas Importantes. {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 
+## Versionamento de código {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 
-
-
-# Final Tips {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
-
-
-## Versionamento de código 
 
 * Git
+
+::: {.incremental}
+
+<br>
+
+* Controle de Versão 
+
+<br>
+
+* Manutenção
+
+:::
+
+
 
 ![](imgs/git.png){.absolute bottom=210 right=70 width="330" height="270"}
 
 
-## Aprendam a operar com Containers 
+## Aprendam a operar com Containers {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 * [Docker](https://livro.descomplicandodocker.com.br/)
 
 ![](imgs/docker.png){.absolute bottom=210 right=70 width="330" height="270"}
 
 
-## Ambientes Distribuídos
+::: {.incremental}
 
-* Spark 
+* **MAS NO MEU PC FUNCIONA**
 
-![](imgs/spark.png  ){.absolute bottom=210 right=70 width="530" height="410"}
+<br>
+
+* Isolar  a Aplicação
+
+<br>
+
+* Portabilidade da Aplicação
+:::
 
 
 
-## Recomendação de livro
 
-![](https://m.media-amazon.com/images/I/51eTKL+SkeL.jpg){.absolute top=200 right=170 width="280" height="320"}
+# Recomendação de Livros {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
-![](https://m.media-amazon.com/images/I/411RusyGLYL._SX346_BO1,204,203,200_.jpg){.absolute top=200 right=570 width="280" height="320"}
+## **Análise de Dados** {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+
+![](https://m.media-amazon.com/images/I/51eTKL+SkeL.jpg){.absolute top=200 right=290 width="280" height="350"}
+
+
+## **Machine Learning** {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
+
+![](imgs/scikit.png){.absolute top=200 left=120 width="280" height="250"}
+
+![](https://m.media-amazon.com/images/I/41X-jgaPtoL._AC_SY780_.jpg){.absolute top=200 right=190 width="280" height="350"}
+
+* Esse [livro](http://ciml.info/)
+
+
+
+
+## **Computação em Geral** {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
 
 ::: footer
-linux não é uma questão de **se**, é uma questão de **quando**.
+Fundamental saber que: Linux não é uma questão de **se**, é uma questão de **quando**.
 :::
+
+
+<br>
+
+* [CS50 - Harvard](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+
+
+![](https://pbs.twimg.com/media/Dh1kxn1W0AA335d.jpg){.absolute top=200 right=190 width="480" height="350"}
+
+
+
 
 
 # **Obrigado pela Atenção!** {background-image="https://img.freepik.com/premium-photo/white-art-paper-background_35956-2381.jpg?w=1380"}
