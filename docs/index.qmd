@@ -1,5 +1,5 @@
 ---
-title: "Da Estatística pro Mundo? "
+title: "Depois da Estatística, Vamos Para Onde? "
 title-slide-attributes:
   data-background-image: "https://slidebazaar.com/wp-content/uploads/2022/05/Black-and-White-Background-Presentation-templates-SB02298.jpg"
   data-background-opacity: "0.3"
